@@ -1,0 +1,6 @@
+{
+  "appId": "se.xeq.test1",
+  "appName": "Test1",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
